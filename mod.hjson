@@ -1,0 +1,8 @@
+displayName: "Auto Boost"
+name: "autoBoost"
+author: "[#f00]ilya[#333]034"
+main: "boost.Main"
+description: "auto boost"
+version: 1.0
+minGameVersion: 140
+java: true
